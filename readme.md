@@ -214,6 +214,5 @@ Potential improvements include:
 
 Developed as a Python-based data science project exploring Nepal household survey data.
 
-## 📄 License
 
-Add a suitable license if you intend to distribute this project publicly. Ensure that the dataset's terms and any privacy requirements permit redistribution before uploading the raw or cleaned survey data.
+
